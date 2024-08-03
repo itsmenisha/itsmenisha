@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="1000" src="https://the-decoder.com/wp-content/uploads/2023/07/office_work_monitor_woman.png">
+<img align="right" alt="Coding" width="1000"height="500" src="https://the-decoder.com/wp-content/uploads/2023/07/office_work_monitor_woman.png">
 <br>
 <h1 align="center">Hi 👋, I'm Nisha Kiran</h1>
 <h3 align="center">Passionate about diving into the world of machine learning, one step at a time.</h3>

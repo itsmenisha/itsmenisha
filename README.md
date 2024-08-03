@@ -1,12 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://itsmenisha.io)
 <h1 align="center">Hi 👋, I'm Nisha Kiran</h1>
 <h3 align="center">Passionate about diving into the world of machine learning, one step at a time.</h3>
-<img align="right" alt="Coding" width="400" src="https://the-decoder.com/wp-content/uploads/2023/07/office_work_monitor_woman.png">
-
+<img align="right" alt="Coding" width="700" src="https://the-decoder.com/wp-content/uploads/2023/07/office_work_monitor_woman.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmenisha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmenisha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmenisha" alt="itsmenisha" /></a> </p>
 
 - 🔭 I’m currently working on [100 days python challenge](https://github.com/itsmenisha/100_Days_Python_codes)
 

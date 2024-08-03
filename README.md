@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gnawalynishakiran@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/itsmenisha/itsmenisha.github.io/blob/main/Nisha-Kiran-Gnawaly.pdf](https://github.com/itsmenisha/itsmenisha.github.io/blob/main/Nisha-Kiran-Gnawaly.pdf)
+- 📄 Know about my experiences [resume.pdf](https://github.com/itsmenisha/itsmenisha.github.io/blob/main/Nisha-Kiran-Gnawaly.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,11 +1,12 @@
 
-[![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif)](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif))](https://itsmenisha.io)
+[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif)](https://itsmenisha.github.io)
+
 
 
 <h1 align="left"> Hi 👋, I'm Nisha Kiran</h1>
 <h3 align="left">Passionate about diving into the world of machine learning, one step at a time.</h3>
 <img align="right" alt="Coding" width="400"  src="https://img.freepik.com/premium-photo/illustration-young-gamer-hacker-girl-looking-monitor-room_73290-4862.jpg">
-s
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmenisha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmenisha" /> </p>
 
 - 🔭 I’m currently working on [100 days python challenge](https://github.com/itsmenisha/100_Days_Python_codes)

@@ -1,6 +1,6 @@
-
-[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif)](https://itsmenisha.github.io)
-
+<a href="https://itsmenisha.github.io">
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif" alt="MasterHead" style="width:100%; max-width:600px;">
+</a>
 
 
 <h1 align="left"> Hi 👋, I'm Nisha Kiran</h1>

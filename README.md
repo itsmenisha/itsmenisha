@@ -1,3 +1,6 @@
+
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif))](https://itsmenisha.io)
+
 <img align="right" alt="Coding" width="400"  src="https://img.freepik.com/premium-photo/illustration-young-gamer-hacker-girl-looking-monitor-room_73290-4862.jpg">
 <br><br><br>
 <h1 align="left"> Hi 👋, I'm Nisha Kiran</h1>

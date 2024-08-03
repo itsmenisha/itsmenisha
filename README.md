@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development and Machine Learning for personal and professional projects.**
 
-- 👨‍💻 All of my projects are available at [https://itsmenisha.github.io/](https://itsmenisha.github.io/)
+- 👨‍💻 Visit my profile by: [clicking here](https://itsmenisha.github.io/)
 
 - 📫 How to reach me **gnawalynishakiran@gmail.com**
 

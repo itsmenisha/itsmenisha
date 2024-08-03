@@ -1,5 +1,5 @@
 <img align="right" alt="Coding" width="1000" height="300" src="https://the-decoder.com/wp-content/uploads/2023/07/office_work_monitor_woman.png">
-<br>
+<br><br><br>
 <h1 align="left">Hi 👋, I'm Nisha Kiran</h1>
 <h3 align="left">Passionate about diving into the world of machine learning, one step at a time.</h3>
 

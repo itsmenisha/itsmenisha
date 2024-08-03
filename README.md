@@ -1,5 +1,5 @@
 <a href="https://itsmenisha.github.io">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif" alt="MasterHead" style="width:1000px; max-width:400px;">
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif" alt="MasterHead" style="width:1000px; height:200px;">
 </a>
 
 

@@ -1,10 +1,10 @@
 <a href="https://itsmenisha.github.io">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif" alt="MasterHead" style="width:100%; max-width:600px;">
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif" alt="MasterHead" style="width:1000px; max-width:600px;">
 </a>
 
 
-<h1 align="left"> Hi 👋, I'm Nisha Kiran</h1>
-<h3 align="left">Passionate about diving into the world of machine learning, one step at a time.</h3>
+<h1 align="center"> Hello👋, I'm Nisha Kiran</h1>
+<h3 align="ce3nter">Passionate about diving into the world of machine learning, one step at a time.</h3>
 <img align="right" alt="Coding" width="400"  src="https://img.freepik.com/premium-photo/illustration-young-gamer-hacker-girl-looking-monitor-room_73290-4862.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmenisha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmenisha" /> </p>

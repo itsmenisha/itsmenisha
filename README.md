@@ -1,13 +1,13 @@
 <img align="right" alt="Coding" width="1000" height="300" src="https://the-decoder.com/wp-content/uploads/2023/07/office_work_monitor_woman.png">
 <br><br><br>
-<h1 align="left">Hi 👋, I'm Nisha Kiran</h1>
+<h1 align="left"> Hi 👋, I'm Nisha Kiran</h1>
 <h3 align="left">Passionate about diving into the world of machine learning, one step at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmenisha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmenisha" /> </p>
 
 - 🔭 I’m currently working on [100 days python challenge](https://github.com/itsmenisha/100_Days_Python_codes)
 
-- 🌱 I’m currently learning **Machine learning and front end for personal and professional projects.**
+- 🌱 I’m currently learning **Web Development and Machine Learning for personal and professional projects.**
 
 - 👨‍💻 All of my projects are available at [https://itsmenisha.github.io/](https://itsmenisha.github.io/)
 

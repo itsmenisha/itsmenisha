@@ -3,7 +3,7 @@
 </a>
 
 
-<h1 align="center"> Hello👋, I'm Nisha Kiran</h1>
+<h1 align="center"> Hello👋, I'm Nisha Kiran</h1>a
 <h3 align="ce3nter">Passionate about diving into the world of machine learning, one step at a time.</h3>
 <img align="right" alt="Coding" width="380"  src="https://img.freepik.com/premium-photo/illustration-young-gamer-hacker-girl-looking-monitor-room_73290-4862.jpg">
 

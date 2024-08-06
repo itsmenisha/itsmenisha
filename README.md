@@ -8,8 +8,8 @@
 <img align="right" alt="Coding" width="380"  src="https://img.freepik.com/premium-photo/illustration-young-gamer-hacker-girl-looking-monitor-room_73290-4862.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmenisha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmenisha" /> </p>
-- 🔭 I’m currently working on [100 days python challenge](https://github.com/itsmenisha/100_Days_Python_codes)
 
+- 🔭 I’m currently working on [100 days python challenge](https://github.com/itsmenisha/100_Days_Python_codes)
 - 🌱 I’m currently learning **Web Development and Machine Learning for personal and professional projects.**
 
 - 👩‍💻Check out my profile here: [My Profile😎](https://itsmenisha.github.io/)

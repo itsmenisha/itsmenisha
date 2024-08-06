@@ -14,7 +14,7 @@
 - 👩‍💻Check out my profile here: [My Profile😎](https://itsmenisha.github.io/)
 
 
-- 📫 How to reach me **gnawalynishakiran@gmail.com**
+- 📧 How to reach me **gnawalynishakiran@gmail.com**
 
 - 📄 Know about my experiences [resume.pdf](https://github.com/itsmenisha/itsmenisha.github.io/blob/main/Nisha-Kiran-Gnawaly.pdf)
 

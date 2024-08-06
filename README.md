@@ -6,8 +6,6 @@
 <h1 align="center"> Hello👋, I'm Nisha Kiran</h1>
 <h3 align="ce3nter">Passionate about diving into the world of machine learning, one step at a time.</h3>
 <img align="right" alt="Coding" width="380"  src="https://static.vecteezy.com/system/resources/previews/002/794/133/original/young-woman-working-on-laptop-freelance-or-studying-concept-cute-trendy-illustration-in-flat-style-free-vector.jpg">
- https://img.freepik.com/premium-photo/illustration-young-gamer-hacker-girl-looking-monitor-room_73290-4862.jpg
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmenisha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmenisha" /> </p>
 
 - 🔭 I’m currently working on [100 days python challenge](https://github.com/itsmenisha/100_Days_Python_codes)

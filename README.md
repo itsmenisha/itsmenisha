@@ -5,7 +5,8 @@
 
 <h1 align="center"> Hello👋, I'm Nisha Kiran</h1>
 <h3 align="ce3nter">Passionate about diving into the world of machine learning, one step at a time.</h3>
-<img align="right" alt="Coding" width="380"  src="https://img.freepik.com/premium-photo/illustration-young-gamer-hacker-girl-looking-monitor-room_73290-4862.jpg">
+<img align="right" alt="Coding" width="380"  src="https://e7.pngegg.com/pngimages/998/970/png-clipart-telephony-%E9%9B%BB%E8%A9%B1%E4%BB%A3%E8%A1%8C-telephone-number-graphy-others-child-service.png">
+ https://img.freepik.com/premium-photo/illustration-young-gamer-hacker-girl-looking-monitor-room_73290-4862.jpg
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmenisha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmenisha" /> </p>
 

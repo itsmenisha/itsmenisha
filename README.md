@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Machine learning and front end for personal and professional projects.**
 
-- 👨‍💻 All of my projects are available at [https://www.nishagnawaly.com.np/](https://www.nishagnawaly.com.np/project.html))
+- 👨‍💻 All of my projects are available at [nishagnawaly.com.np](https://www.nishagnawaly.com.np/project.html))
 
 - 📫 How to reach me **gnawalynishakiran@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/itsmenisha/itsmenisha.github.io/blob/main/Nisha-Kiran-Gnawaly.pdf](https://github.com/itsmenisha/itsmenisha.github.io/blob/main/Nisha-Kiran-Gnawaly.pdf)
+- 📄 Know about my experiences [nishagnawaly.com.np](https://www.nishagnawaly.com.np/work.html))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

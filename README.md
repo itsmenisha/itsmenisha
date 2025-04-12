@@ -31,5 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmenisha&show_icons=true&locale=en" alt="itsmenisha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmenisha&" alt="itsmenisha" /></p>
+<img src="https://raw.githubusercontent.com/itsmenisha/itsmenisha/output/snake.svg" alt="Snake animation" />
 
+###
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisha Kiran</h1>
-<h3 align="center">Passionate about diving into the world of machine learning, one step at a time.</h3>
+<h3 align="center">Passionate about diving into the world of AI & Machine learning, one step at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmenisha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmenisha" /> </p>
 

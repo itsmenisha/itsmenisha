@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine learning and front end for personal and professional projects.**
 
-- 👨‍💻 All of my projects are available at [https://itsmenisha.github.io/](https://itsmenisha.github.io/)
+- 👨‍💻 All of my projects are available at [https://www.nishagnawaly.com.np/](https://www.nishagnawaly.com.np/project.html))
 
 - 📫 How to reach me **gnawalynishakiran@gmail.com**
 

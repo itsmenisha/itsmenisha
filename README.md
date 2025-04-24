@@ -1,5 +1,3 @@
-![Funny Cat](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN0OW55cTVjc3huNWEzM3lmODd2bG93bTZ2bHc2MXpza2gxdTE5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kBHf6HZDEf1S/giphy.gif)
-
 <h1 align="center" style="font-family: 'Papyrus', fantasy; color: #6b705c;"> Hi 👋! I'm Nisha Kiran 🌸</h1>
 <h3 align="center" style="font-style: italic; color: #a5a58d;">Passionate about exploring wonders of AI & Machine Learning, one step at a time 🌱✨</h3>
 <p align="center">
@@ -17,8 +15,8 @@
       </ul>
     </td>
     <td width="40%">
-      <img src="https://i.pinimg.com/originals/49/b2/b8/49b2b85430b0831f26544b84b6f7246b.jpg" alt="Harry Potter Invisible Cloak" width="100%">
-    </td>
+     ![Funny Cat](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN0OW55cTVjc3huNWEzM3lmODd2bG93bTZ2bHc2MXpza2gxdTE5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kBHf6HZDEf1S/giphy.gif)
+  </td>
   </tr>
 </table>
 

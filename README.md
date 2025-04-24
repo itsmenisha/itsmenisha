@@ -2,6 +2,9 @@
 <h3 align="center">Passionate about diving into the world of AI & Machine Learning, one step at a time.</h3>
 
 <p align="center">
+  <img src="https://i.pinimg.com/originals/49/b2/b8/49b2b85430b0831f26544b84b6f7246b.jpg" alt="Harry Potter Invisible Cloak" width="400"/>
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsmenisha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmenisha" />
 </p>
 

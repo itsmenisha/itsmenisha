@@ -8,7 +8,7 @@
     <td>
       <ul>
         <li>🔭 I’m currently working on <a href="https://github.com/itsmenisha/100_Days_Python_codes">100 Days Python Challenge</a></li>
-        <li>🌱 I’m currently learning <strong>Machine Learning and Front-end development</strong> for personal and professional projects.</li>
+        <li>🌱 I’m currently learning <strong>Python and Machine Learning</strong> for personal and professional projects.</li>
         <li>👨‍💻 All of my projects are available at <a href="https://www.nishagnawaly.com.np/project.html">nishagnawaly.com.np</a></li>
         <li>📫 Reach me at <strong>gnawalynishakiran@gmail.com</strong></li>
         <li>📄 Know more about my experiences: <a href="https://www.nishagnawaly.com.np/work.html">nishagnawaly.com.np</a></li>

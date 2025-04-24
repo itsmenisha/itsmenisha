@@ -20,24 +20,6 @@
   </tr>
 </table>
 
-
-
-
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/49/b2/b8/49b2b85430b0831f26544b84b6f7246b.jpg" alt="Harry Potter Invisible Cloak" width="400"/>
-</p>
-
-- 🔭 I’m currently working on [100 Days Python Challenge](https://github.com/itsmenisha/100_Days_Python_codes)
-
-- 🌱 I’m currently learning **Machine Learning and Front-end development** for personal and professional projects.
-
-- 👨‍💻 All of my projects are available at [nishagnawaly.com.np](https://www.nishagnawaly.com.np/project.html)
-
-- 📫 Reach me at **gnawalynishakiran@gmail.com**
-
-- 📄 Know more about my experiences: [nishagnawaly.com.np](https://www.nishagnawaly.com.np/work.html)
-
 ---
 
 <h3 align="left">Connect with me:</h3>

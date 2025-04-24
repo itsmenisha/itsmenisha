@@ -1,11 +1,31 @@
 <h1 align="center">Hi 👋, I'm Nisha Kiran</h1>
 <h3 align="center">Passionate about diving into the world of AI & Machine Learning, one step at a time.</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsmenisha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmenisha" />
+</p>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on <a href="https://github.com/itsmenisha/100_Days_Python_codes">100 Days Python Challenge</a></li>
+        <li>🌱 I’m currently learning <strong>Machine Learning and Front-end development</strong> for personal and professional projects.</li>
+        <li>👨‍💻 All of my projects are available at <a href="https://www.nishagnawaly.com.np/project.html">nishagnawaly.com.np</a></li>
+        <li>📫 Reach me at <strong>gnawalynishakiran@gmail.com</strong></li>
+        <li>📄 Know more about my experiences: <a href="https://www.nishagnawaly.com.np/work.html">nishagnawaly.com.np</a></li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://i.pinimg.com/originals/49/b2/b8/49b2b85430b0831f26544b84b6f7246b.jpg" alt="Harry Potter Invisible Cloak" width="100%">
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/49/b2/b8/49b2b85430b0831f26544b84b6f7246b.jpg" alt="Harry Potter Invisible Cloak" width="400"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsmenisha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmenisha" />
 </p>
 
 - 🔭 I’m currently working on [100 Days Python Challenge](https://github.com/itsmenisha/100_Days_Python_codes)

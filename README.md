@@ -1,3 +1,5 @@
+![Alt Text](https://i.pinimg.com/736x/6f/bb/12/6fbb128181a024a59af8be39cf3b6108.jpg)
+
 <h1 align="center" style="font-family: 'Papyrus', fantasy; color: #6b705c;"> Hi 👋! I'm Nisha Kiran 🌸</h1>
 <h3 align="center" style="font-style: italic; color: #a5a58d;">Passionate about exploring wonders of AI & Machine Learning, one step at a time 🌱✨</h3>
 <p align="center">

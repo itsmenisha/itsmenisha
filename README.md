@@ -14,9 +14,8 @@
         <li>📄 Know more about my experiences: <a href="https://www.nishagnawaly.com.np/work.html">nishagnawaly.com.np</a></li>
       </ul>
     </td>
-    <td width="40%">
-     ![Funny Cat](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN0OW55cTVjc3huNWEzM3lmODd2bG93bTZ2bHc2MXpza2gxdTE5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kBHf6HZDEf1S/giphy.gif)
-  </td>
+    <td width="40%"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN0OW55cTVjc3huNWEzM3lmODd2bG93bTZ2bHc2MXpza2gxdTE5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kBHf6HZDEf1S/giphy.gif" alt="Funny Cat" width="100%">
+    </td>
   </tr>
 </table>
 

@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Papyrus', fantasy; color: #6b705c;"> Hi 👋! I'm Nisha Kiran 🌸</h1>
+<h1 align="center" style="font-family: 'Papyrus', fantasy; color: #6b705c;"> Hi 👋! I'm Nisha Kiran 🌸 </h1>
 <h3 align="center" style="font-style: italic; color: #a5a58d;">Passionate about exploring wonders of AI & Machine Learning, one step at a time 🌱✨</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsmenisha&label=Profile%20views&color=0e75b6&style=flat" alt="itsmenisha" />
